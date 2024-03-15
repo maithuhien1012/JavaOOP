@@ -38,5 +38,4 @@ public class Hinhtron {
         abc.inChuVi();
         abc.inDienTich();
     }
-
 }
